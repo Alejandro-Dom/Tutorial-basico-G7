@@ -26,3 +26,8 @@ Para actualizar el repositorio
 
 ## Este es el primer commit con GitHub desktop
 Estoy modificando el archivo desde Visual Studio Code
+	- Abrir la carpeta del archivo en Visual
+	- Se puede modificar el archivo
+	- Salvar el archivo
+	- Regresar a GitHub para hacer el commit, poniendole un nombre y descripción
+	- Hacer el Push
